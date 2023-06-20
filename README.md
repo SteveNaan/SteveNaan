@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SteveNaan
+- 👀 I’m interested in Programming and Health & Fitness
+- 🌱 I’m currently learning Full-stack Web Development via The Odin Project
