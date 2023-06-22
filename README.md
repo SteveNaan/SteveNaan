@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenaan&label=Profile%20views&color=0e75b6&style=flat" alt="stevenaan" /> </p>
 
-- 🌱 I’m currently learning **via the Odin Project**
+- 🌱 I’m currently learning via <a href="https://www.theodinproject.com">**the Odin Project**</a>
 
 - 👨‍💻 All of my projects are available at [https://stevenaan.github.io/portfolio/](https://stevenaan.github.io/portfolio/)
 
