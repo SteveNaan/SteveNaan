@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://stevenaan.github.io/portfolio/](https://stevenaan.github.io/portfolio/)
 
-- 🚀 I'm making it my mission to do 1-2hrs coding everyday to improve my knowlege and skills over time
+- 🚀 I'm making it my mission to code everyday to improve my knowlege and skills over time
 
 - 💬 Ask me about **JavaScript**
 
